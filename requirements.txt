@@ -1,0 +1,4 @@
+torch==1.10
+gym==0.15
+matplotlib==3.5
+scikit-image==0.19
